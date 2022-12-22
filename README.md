@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Marketing Mix Modeling to to save marketing budget 💰**
 
-- 👯 I’m looking to collaborate on **data driven products in Real Estate 🏗️**
-
 - 🌱 I’m currently learning **Production Machine Learning 📊**
 
-- ⚡ Fun fact: **I produce electronic pop music in my free time 🎹**
+- ⚡ Fun fact: **I've built 3D Printers for ice cream 🍨**
 
 <h3 align="left">Connect with me on</h3>
 <p align="left">
