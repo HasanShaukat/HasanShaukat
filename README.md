@@ -5,9 +5,11 @@
 
 - 💬 Ask me about **using data to supercharge your marketing 🚀**
 
-- 🔭 I’m currently working on **Marketing Mix Modeling to to save marketing budget 💰**
+- 🔭 I’m currently working on **Marketing Mix Modeling to to save marketing budget 💰 and Enterprise GenAI to improve employee wellbeing ✨**
 
-- 🌱 I’m currently learning **Production Machine Learning 📊**
+- 🌱 I’m currently learning **CI7CD and GenAI 📊**
+
+- 👯 I’m looking to collaborate on **Open Data Insights Projects**
 
 - ⚡ Fun fact: **I've built 3D Printers for ice cream 🍨**
 
