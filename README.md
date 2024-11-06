@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **CI7CD and GenAI 📊**
 
-- 👯 I’m looking to collaborate on **Open Data Insights Projects**
+- 👯 I’m looking to collaborate on **Open Data Insights Projects 📖**
 
 - ⚡ Fun fact: **I've built 3D Printers for ice cream 🍨**
 
