@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Marketing Mix Modeling to to save marketing budget 💰 and Enterprise GenAI to improve employee wellbeing ✨**
 
-- 🌱 I’m currently learning **CI7CD and GenAI 📊**
+- 🌱 I’m currently learning **CI/CD and GenAI 📊**
 
 - 👯 I’m looking to collaborate on **Open Data Insights Projects 📖**
 
